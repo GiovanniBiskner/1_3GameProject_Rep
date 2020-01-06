@@ -7,7 +7,7 @@
 ####
 
 team_name = 'CSP TEAM 2'
-strategy_name = 'Betray'
+strategy_name = 'Betray Gavins Change'
 strategy_description = 'Always betray.'
     
 def move(my_history, their_history, my_score, their_score):
