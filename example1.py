@@ -8,7 +8,7 @@
 
 team_name = 'CSP TEAM 2'
 strategy_name = 'Betray Gavins Change'
-strategy_description = 'Always betray.'
+strategy_description = 'Always betray Zach Z.'
     
 def move(my_history, their_history, my_score, their_score):
     '''Make my move based on the history with this player.
